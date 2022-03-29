@@ -19,6 +19,8 @@ If you know of other classes using Julia for teaching, please consider [updating
     * [Advanced Macroeconomics](https://github.com/CEU-Economics-and-Business/ECBS-6001-Advanced-Macroeconomics/blob/master/ECBS-6001-Advanced-Macroeconomics.md) ([Miklós Koren](http://koren.mk/))
 * City University of New York
     * [MTH 229](https://www.math.csi.cuny.edu/abhijit/229/), Calculus Computer Laboratory (Prof. John Verzani), Spring 2014. Also see the [MTH 229 Projects](https://mth229.github.io) page.
+* Clemson University
+    * CPSC 8810/ECE 8930, High-Performance Computing for Computational Science and Engineering (Prof. Shuangshuang Jin), Spring 2022.
 * Cornell University
     * [CS 5220](https://www.cs.cornell.edu/~bindel/class/cs5220-s14/), Applications of Parallel Computers (Prof. David Bindel), Spring 2014
 * [Czech Technical University in Prague](https://www.cvut.cz/en), Czech Republic
